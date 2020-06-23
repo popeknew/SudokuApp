@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SudokuApp</string>
+    <string name="number_button_one">1</string>
+    <string name="number_button_two">2</string>
+    <string name="number_button_three">3</string>
+    <string name="number_button_four">4</string>
+    <string name="number_button_five">5</string>
+    <string name="number_button_six">6</string>
+    <string name="number_button_seven">7</string>
+    <string name="number_button_eight">8</string>
+    <string name="number_button_nine">9</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="check_button_text">Check</string>
+
+    <string name="sudoku_game_title">SUDOKU GAME</string>
+    <string name="continue_text_button">Continue game</string>
+    <string name="start_new_game_text_button">Start new game</string>
+
+    <string name="dialog_congratulations">Congratulations!</string>
+    <string name="dialog_solved_message">Your solution is correct!</string>
+    <string name="dialog_solved_button_text">Done</string>
+
+    <string name="dialog_not_this_time">Not this time!</string>
+    <string name="dialog_unsolved_message">Sudoku unsolved, try to find mistakes!</string>
+    <string name="dialog_unsolved_button_text">Keep trying!</string>
+</resources>
